@@ -1,8 +1,10 @@
 All_crypt Ruby Cryptology Gem
 =========
 
+A ruby gem to make web developers job more easy.
+
 <blockquote>
-    <p><b>gem instal all_crypt</b></p>
+    <p><b>gem install all_crypt</b></p>
 </blockquote>
 
 How to use?
